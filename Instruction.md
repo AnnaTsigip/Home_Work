@@ -70,6 +70,9 @@
 *Переход между ветками:*
 * git checkout branch_name
 
+*Создать новую ветку и переключиться на нее:*
+* git checkout -b branch_name
+
 # Слияние веток и решение конфликтов 
 
 * git merge branch_name
